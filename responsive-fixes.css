@@ -1,0 +1,13 @@
+body { overflow-x: hidden; }
+.hero-copy, .hero-visual, .product-content, .product-art { min-width: 0; }
+.products { display: grid; }
+.products > .section-heading { grid-row: 1; }
+.products > .tynus-card { grid-row: 2; }
+.products > .vinza-card { grid-row: 3; }
+.floating-tynus { top: 13%; right: -1%; bottom: auto; left: auto; }
+.floating-vinza { top: auto; right: auto; bottom: 15%; left: -2%; }
+.contact-links a[data-product="tynus"] { order: -1; }
+@media (max-width: 430px) {
+  h1 { font-size: 45px; }
+  .cookie-banner { max-width: calc(100vw - 44px); }
+}

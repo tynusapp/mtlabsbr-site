@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 72" width="240" height="72" role="img" aria-label="Tynus">
+  <rect x="2" y="2" width="68" height="68" rx="20" fill="#D96B3B"/>
+  <path d="M22 27H50" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M36 27V44a6 6 0 0 0 6 6h4" stroke="#fff" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <text x="86" y="48" font-family="'Plus Jakarta Sans',sans-serif" font-size="38" font-weight="800" letter-spacing="-1.5" fill="#2B2118">Tynus</text>
+</svg>
