@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mtlabs.tech/sitemap.xml
+Sitemap: https://mtlabsbr.tech/sitemap.xml

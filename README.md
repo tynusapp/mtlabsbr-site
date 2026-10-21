@@ -1,12 +1,12 @@
 # Site institucional MT Labs
 
-Site estático preparado para GitHub Pages no domínio `mtlabs.tech`.
+Site estático preparado para GitHub Pages no domínio `mtlabsbr.tech`.
 
 ## Publicação
 
 1. Crie o repositório GitHub para o site e envie o conteúdo desta pasta para a branch principal.
 2. Em **Settings → Pages**, selecione **Deploy from a branch**, branch principal e pasta `/ (root)`.
-3. O arquivo `CNAME` já aponta para `mtlabs.tech`.
+3. O arquivo `CNAME` já aponta para `mtlabsbr.tech`.
 4. Configure no provedor DNS os registros indicados pelo GitHub Pages e habilite **Enforce HTTPS** quando ficar disponível.
 
 ## Analytics
